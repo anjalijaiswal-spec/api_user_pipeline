@@ -1,0 +1,14 @@
+{
+  "name": "Anjali",
+  "email": "alex@example.com",
+  "age": 16,
+  "skills": [
+    "Python",
+    "APIs",
+    "Automation",
+    "git"
+  ],
+  "is_active": true,
+  "country": "India",
+  "user_type": "freelancer"
+}

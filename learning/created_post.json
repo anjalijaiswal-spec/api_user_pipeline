@@ -1,0 +1,26 @@
+[
+  {
+    "title": "My Automation Journey",
+    "body": "This is my first POST request",
+    "userId": 15,
+    "category": "Programming",
+    "Id": 101,
+    "id": 101
+  },
+  {
+    "title": "My Automation Journey",
+    "body": "This is my second POST request",
+    "userId": 10,
+    "category": "Programming",
+    "Id": 102,
+    "id": 101
+  },
+  {
+    "title": "My Automation Journey",
+    "body": "This is my third POST request",
+    "userId": 11,
+    "category": "Programming",
+    "Id": 103,
+    "id": 101
+  }
+]
